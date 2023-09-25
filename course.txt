@@ -2,4 +2,3 @@ aws
 devops
 terraform
 linux essentials
-basics of python
