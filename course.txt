@@ -2,4 +2,4 @@ aws
 devops
 terraform
 linux essentials
-send welcome mails
+send welcome messages
